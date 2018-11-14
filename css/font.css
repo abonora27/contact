@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face{
+	font-family: sa1;
+	src: url(../fonts/a-massir-ballpoint.ttf);
+}
+@font-face{
+	font-family: sa2;
+	src: url(../fonts/A-Mosalas.ttf);
+}
+@font-face{
+	font-family: sa3;
+	src: url(../fonts/AD-Rsail.otf);
+}
+@font-face{
+	font-family: sa4;
+	src: url(../fonts/AraESNawar-Regular.otf);
+}
+@font-face{
+	font-family: sa5;
+	src: url(../fonts/BZIBA.ttf);
+}
+@font-face{
+	font-family: sa6;
+	src: url(../fonts/DIN-NEXT_-ARABIC-REGULAR.otf);
+}
+@font-face{
+	font-family: sa7;
+	src: url(../fonts/FrutigerLTArabic.ttf);
+}
+@font-face{
+	font-family: sa8;
+	src: url(../fonts/GE-Thameen-Light.otf);
+}
+@font-face{
+	font-family: sa9;
+	src: url(../fonts/GE_SS_Unique_Light.otf);
+}
+@font-face{
+	font-family: sa10;
+	src: url(../fonts/HelveticaWorld-Bold.ttf);
+}
+@font-face{
+	font-family: sa11;
+	src: url(../fonts/Hetaf-Regular.otf);
+}@font-face{
+	font-family: sa12;
+	src: url(../fonts/Inseyab-Regular_0.otf);
+}
+@font-face{
+	font-family: sa13;
+	src: url(../fonts/JannaLT-Regular.ttf);
+}
+@font-face{
+	font-family: sa14;
+	src: url(../fonts/kufam-regular-webfont.otf);
+}
+@font-face{
+	font-family: sa15;
+	src: url(../fonts/ntaqat.ttf);
+}
+@font-face{
+	font-family: sa16;
+	src: url(../fonts/Sheba-Ye-Font.ttf);
+}
